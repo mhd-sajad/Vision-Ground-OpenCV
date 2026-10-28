@@ -1,0 +1,6 @@
+streamlit>=1.25.0
+opencv-python>=4.8.0
+Pillow>=9.5.0
+numpy>=1.23.0
+pytesseract>=0.3.10
+
